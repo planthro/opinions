@@ -5922,7 +5922,7 @@ $('.image-popup-no-margins').magnificPopup({
           <!-- LOGO -->
           <div class='logo text-center'>
             <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
-              <b:widget id='Header1' locked='true' title='devOPINIONS (Header)' type='Header' version='1'>
+              <b:widget id='Header1' locked='true' title='#planthro OPINIONS | Platform anthropocene Inc. (Header)' type='Header' version='1'>
                 <b:widget-settings>
                   <b:widget-setting name='displayUrl'>https://4.bp.blogspot.com/-HY3wyL90KnA/XDAanVpcS9I/AAAAAAAAABw/yEyBbJT2b0IX2fqYqKBsXtqz4RRANsl1gCLcBGAs/s1600/planthroOPINIONSIndexBanner2x.png</b:widget-setting>
                   <b:widget-setting name='displayHeight'>242</b:widget-setting>
@@ -7205,7 +7205,7 @@ on sustainability, mitigation and adaptive strategies.
       gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
         if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d302369848131002095\x26blogName\x3ddevOPINIONS\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dDISABLED\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://devopinions.blogspot.com/search\x26blogLocale\x3den_GB\x26v\x3d2\x26homepageUrl\x3dhttps://devopinions.blogspot.com/\x26vt\x3d1757148460513049146&#39;,
+              url: &#39;https://www.blogger.com/navbar.g?targetBlogID\x3d1274499948521279837\x26blogName\x3d%23planthro+OPINIONS+%7C+Platform+anthrop...\x26publishMode\x3dPUBLISH_MODE_HOSTED\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://opinions.planthro.org/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://opinions.planthro.org/\x26vt\x3d-503157616165338253&#39;,
               where: document.getElementById(&quot;navbar-iframe-container&quot;),
               id: &quot;navbar-iframe&quot;
           });
